@@ -31,7 +31,7 @@ function InterfaceContainer({ ratio, panelSize }) {
         display: "flex",
         flexDirection: isRowDirection ? "row" : "column",
         flexWrap: "wrap",
-        width: "100vw",
+        width: "100vw", 
         height: "100vh",
         top: 0,
         left: 0,
